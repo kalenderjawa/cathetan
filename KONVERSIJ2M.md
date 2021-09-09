@@ -2,6 +2,15 @@
 
 Menurut buku *The Pakubuwono Code* perubahan dari penanggalan tahun Jawa ke tahun Masehi dapat dihitung dengan memakai konstanta awal konversi yaitu angka **78** dan angka atau konstanta ini akan berkurang 1 setiap perubahan 33 tahun masehi yang dimulai dari tahun awal 1633 Masehi.
 
+## Sejarah
+
+Pada saat pemerintahan Sultan Agung Hanyakrakusuma, 
+terjadi suatu peristiwa istimewa yaitu tahun baru Saka dan tahun baru Islam (Hijriah) terjadi pada waktu yang bersamaan: 
+
+**1 Caitra 1555 Saka** bertepatan dengan **1 Muharam 1043 Hijriah** atau **8 Juli 1633 Masehi**.
+
+
+
 ## Perhitungan
 
 ```
