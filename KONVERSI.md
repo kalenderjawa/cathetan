@@ -4,12 +4,11 @@ Menurut buku *The Pakubuwono Code* perubahan dari penanggalan tahun Jawa ke tahu
 
 ## Sejarah
 
-Pada saat pemerintahan Sultan Agung Hanyakrakusuma, 
-terjadi suatu peristiwa istimewa yaitu tahun baru Saka dan tahun baru Islam (Hijriah) terjadi pada waktu yang bersamaan: 
+Pada saat pemerintahan Sultan Agung Hanyakrakusuma, terjadi suatu peristiwa istimewa yaitu tahun baru Saka dan tahun baru Islam (Hijriah) terjadi pada waktu yang bersamaan: 
 
 > **1 Caitra 1555 Saka** bertepatan dengan **1 Muharam 1043 Hijriah** atau **8 Juli 1633 Masehi**.
 
-
+Secara administratif pada 8 Juli 1633 Masehi tersebut ditetapkan sebagai awal dari Kalender Jawa (Tarikh Jawa) dengan tahun Kalender Jawa tetap diteruskan dari tahun Kalender Saka.
 
 ## Perhitungan
 
