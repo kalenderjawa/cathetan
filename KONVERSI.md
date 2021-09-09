@@ -84,6 +84,23 @@ Daftar konstanta konversi dengan tahun awal dan tahun akhir.
 
 Perhitungan tabel diatas dapat dilihat pada kode JavaScript pada berkas [constJ2M.js](constJ2M.js).
 
+**Contoh Konversi**
+
+Sekarang adalah tahun **2021** yang berada pada rentang **2007 - 2040** sehingga konstanta konversi yang dipakai menurut tabel diatas adalah **67**.
+
+```
+Tahun Jawa = 1954
+Tahun Masehi = 1954 + 67 = 2021
+
+Tahun Jawa = 1955
+Tahun Masehi = 1955 + 67 = 2022
+```
+
+Tahun-tahun Jawa yang berlaku pada rentang tahun **2007 - 2040** akan memakai konstanta konversi **67**.
+
+
+
+
 ## Referensi
 
 1. Agung Prabowo, _The Pakubuwono Code_, hal. 28, 2014.
