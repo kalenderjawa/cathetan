@@ -111,4 +111,5 @@ Tahun-tahun Jawa yang berlaku pada rentang tahun **2007 - 2040** Masehi akan mem
 
 ## Referensi
 
-1. Agung Prabowo, _The Pakubuwono Code_, hal. 28, 2014.
+1. Prabowo, A. _The Pakubuwono Code_. 2014, hal. 28.
+2. Prabowo, A. dan Pramono Sidi (2012). *Tarikh Jawa: Kalender Lunar Berbasis Matematika*. Jurnal Edumat PPPPTK, Yogyakarta, Vol. 3 No. 6, 2012, 395-410. 
