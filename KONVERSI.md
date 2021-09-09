@@ -86,7 +86,7 @@ Perhitungan tabel diatas dapat dilihat pada kode JavaScript pada berkas [constJ2
 
 **Contoh Konversi**
 
-Sekarang adalah tahun **2021** yang berada pada rentang **2007 - 2040** sehingga konstanta konversi yang dipakai menurut tabel diatas adalah **67**.
+Sekarang adalah tahun **2021** Masehi yang berada pada rentang **2007 - 2040** Masehi sehingga konstanta konversi yang dipakai menurut tabel diatas adalah **67**.
 
 ```
 Tahun Jawa = 1954
@@ -96,7 +96,7 @@ Tahun Jawa = 1955
 Tahun Masehi = 1955 + 67 = 2022
 ```
 
-Tahun-tahun Jawa yang berlaku pada rentang tahun **2007 - 2040** akan memakai konstanta konversi **67**.
+Tahun-tahun Jawa yang berlaku pada rentang tahun **2007 - 2040** Masehi akan memakai konstanta konversi **67**.
 
 
 
