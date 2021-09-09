@@ -20,7 +20,9 @@ Angka awal `Konstanta_Konversi` adalah 78 dan akan berkurang 1 setiap 33 Masehi.
 
 ...dan seterusnya
 
-## Tabel
+## Tabel Konstanta Konversi
+
+Daftar konstanta konversi dengan tahun awal dan tahun akhir.
 
 | Konstanta Konversi | Tahun Awal | Tahun Akhir |
 | :----------------: | :--------: | :---------: |
