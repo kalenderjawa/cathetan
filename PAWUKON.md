@@ -4,7 +4,7 @@
 
 ## Wuku
 
-Wuku dalam Pawukon berjumlah 30 Wuku dan tiap Wuku akan berlangsung selama 7 hari sehingga 1 siklus Pawukon dapat dihitung dan akan berlangsung selama,
+Wuku dalam Pawukon berjumlah 30 Wuku dan tiap Wuku akan berlangsung selama 7 hari sehingga 1 siklus Pawukon dapat dihitung dan akan berlangsung selama 210 hari.
 
 Siklus Pawukon = 30 Wuku x (7 Hari/1 Wuku)
 
