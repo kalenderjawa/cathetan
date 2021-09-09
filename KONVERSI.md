@@ -82,6 +82,8 @@ Daftar konstanta konversi dengan tahun awal dan tahun akhir.
 |         2          |    4217    |    4250     |
 |         1          |    4251    |    4284     |
 
+Perhitungan tabel diatas dapat dilihat pada kode JavaScript pada berkas [constJ2M.js](constJ2M.js).
+
 ## Referensi
 
 1. Agung Prabowo, _The Pakubuwono Code_, hal. 28, 2014.
