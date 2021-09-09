@@ -1,12 +1,14 @@
 # Konversi Jawa Ke Masehi
 
+Menurut buku *The Pakubuwono Code* perubahan dari penanggalan Jawa ke Masehi dapat dihitung dengan memakai konstanta awal konversi yaitu **78** dan angka konstanta ini akan berkurang 1 setiap perubahan 33 tahun masehi yang dimulai dari awal tahun 1633 Masehi.
+
 ## Perhitungan
 
 ```
 Tahun Masehi = Tahun Jawa + Konstanta_Konversi
 ```
 
-Angka awal `Konstanta_Konversi` adalah 78 dan akan berkurang 1 setiap 33 Masehi.
+Angka awal `Konstanta_Konversi` (78). Sebagai contoh seperti berikut,
 
 ### 1633 - 1666
 
@@ -16,9 +18,7 @@ Angka awal `Konstanta_Konversi` adalah 78 dan akan berkurang 1 setiap 33 Masehi.
 
 `Tahun Masehi = Tahun Jawa + 77`
 
-### 1701 - 1734
-
-...dan seterusnya
+...dan seterusnya.
 
 ## Tabel Konstanta Konversi
 
