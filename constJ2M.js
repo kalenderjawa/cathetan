@@ -1,6 +1,5 @@
 /**
- * Konstanta penambah untuk mengkonversi penanggalan Jawa ke Masehi
- * 
+ * Generator konstanta konversi untuk tahun Jawa ke tahun Masehi
  */
 const initTahun = 1633;
 const penambah = 33;
@@ -23,6 +22,7 @@ for (let x = 0; x < initBilangan; x++) {
   tahunAkhir = tahun + penambah;
 }
 
+// data ada pada array data_tahun
 for(x of data_tahun){
   console.log(`| ${x.konstan} | ${x.tahunAwal} | ${x.tahunAkhir} |`);
 }
