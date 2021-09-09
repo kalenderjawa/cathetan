@@ -23,7 +23,9 @@ for (let x = 0; x < initBilangan; x++) {
   tahunAkhir = tahun + penambah;
 }
 
-console.log(data_tahun);
+for(x of data_tahun){
+  console.log(`| ${x.konstan} | ${x.tahunAwal} | ${x.tahunAkhir} |`);
+}
 
 /**
  * Misalnya pada tahun 1954 Jawa berarti tahun Masehi 2021 Masehi
