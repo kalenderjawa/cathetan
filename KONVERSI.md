@@ -1,3 +1,9 @@
+# Daftar Isi
+
+1. [Konversi Tahun Jawa ke Tahun Masehi](#Konversi-Tahun-Jawa-Ke-Tahun-Masehi)
+2. [Konversi Tahun Jawa ke Tahun Hijriyah](#Konversi-Tahun-Jawa-Ke-Tahun-Hijriyah)
+
+
 # Konversi Tahun Jawa Ke Tahun Masehi
 
 Menurut buku *The Pakubuwono Code* perubahan dari penanggalan tahun Jawa ke tahun Masehi dapat dihitung dengan memakai konstanta awal konversi yaitu angka **78** dan angka atau konstanta ini akan berkurang 1 setiap perubahan 33 tahun masehi yang dimulai dari tahun awal 1633 Masehi.
@@ -9,6 +15,13 @@ Pada saat pemerintahan Sultan Agung Hanyakrakusuma, terjadi suatu peristiwa isti
 > **1 Caitra 1555 Saka** bertepatan dengan **1 Muharam 1043 Hijriah** atau **8 Juli 1633 Masehi**.
 
 Secara administratif pada 8 Juli 1633 Masehi tersebut ditetapkan sebagai awal dari Kalender Jawa (Tarikh Jawa) dengan tahun Kalender Jawa tetap diteruskan dari tahun Kalender Saka.
+
+Sehingga awal Kalender Jawa resmi yaitu **1 Suro 1555 Jawa** bertepatan dengan:
+
+- 1 Muharram 1043 Hijriyah
+- 1 Caitra 1555 Saka
+- 8 Juli 1633 Masehi
+
 
 ## Perhitungan
 
@@ -107,6 +120,18 @@ Tahun Masehi = 1955 + 67 = 2022
 Tahun-tahun Jawa yang berlaku pada rentang tahun **2007 - 2040** Masehi akan memakai konstanta konversi **67**.
 
 
+# Konversi Tahun Jawa Ke Tahun Hijriyah
+
+Konversi dari tahun Kalender Jawa ke tahun Kalender Hijriyah.
+
+```
+Tahun Hijriyah = Tahun Jawa - 512
+```
+dan untuk mencari tahun pada Kalender Jawa dari tahun di Kalender Hijriyah
+
+```
+Tahun Jawa = Tahun Hijriyah + 512
+```
 
 
 ## Referensi
