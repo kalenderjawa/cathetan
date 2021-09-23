@@ -10,7 +10,6 @@ Siklus Pawukon = 30 Wuku x (7 Hari/1 Wuku)
 
 Siklus Pawukon = 210 Hari
 
-
 Nama-nama Wuku sebanyak 30 Wuku adalah sebagai berikut:
 
 1. Sinta
@@ -43,6 +42,3 @@ Nama-nama Wuku sebanyak 30 Wuku adalah sebagai berikut:
 28. Kulawu
 29. Dhukut
 30. Watugunnung
-
-
-
