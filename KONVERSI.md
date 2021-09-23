@@ -29,11 +29,11 @@ Tahun Masehi = Tahun Jawa + Konstanta_Konversi
 
 Angka awal `Konstanta_Konversi` yaitu 78. Sebagai contoh seperti berikut,
 
-### 1633 - 1666
+### 1633 - 1666 (Masehi)
 
 `Tahun Masehi = Tahun Jawa + 78`
 
-### 1667 - 1700
+### 1667 - 1700 (Masehi)
 
 `Tahun Masehi = Tahun Jawa + 77`
 
@@ -43,7 +43,7 @@ Angka awal `Konstanta_Konversi` yaitu 78. Sebagai contoh seperti berikut,
 
 Daftar konstanta konversi dengan tahun awal dan tahun akhir.
 
-| Konstanta Konversi | Tahun Awal | Tahun Akhir |
+| Konstanta Konversi | Tahun Awal (M) | Tahun Akhir (M) |
 | :----------------: | :--------: | :---------: |
 |         78         |    1633    |    1666     |
 |         77         |    1667    |    1700     |
