@@ -1,11 +1,11 @@
 /**
  * Generator konstanta konversi untuk tahun Jawa ke tahun Masehi
  */
-const initTahun = 1633;
+const initTahunMasehi = 1633;
 const penambah = 33;
 const initBilangan = 78;
 
-let tahun = initTahun;
+let tahun = initTahunMasehi;
 let tahunAkhir = tahun + 33;
 let bilangan = initBilangan;
 
