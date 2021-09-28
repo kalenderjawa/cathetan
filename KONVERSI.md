@@ -1,4 +1,4 @@
-# Daftar Isi
+Daftar Isi
 
 1. [Konversi Tahun Jawa ke Tahun Masehi](#Konversi-Tahun-Jawa-Ke-Tahun-Masehi)
 2. [Konversi Tahun Jawa ke Tahun Hijriyah](#Konversi-Tahun-Jawa-Ke-Tahun-Hijriyah)
@@ -23,7 +23,7 @@ Sehingga awal Kalender Jawa resmi yaitu **1 Suro 1555 Jawa** bertepatan dengan:
 
 ## Perhitungan
 
-```
+```javascript
 Tahun Masehi = Tahun Jawa + Konstanta_Konversi
 ```
 
@@ -107,7 +107,7 @@ Perhitungan tabel diatas dapat dilihat pada kode JavaScript pada berkas [constJ2
 
 Sekarang adalah tahun **2021** Masehi yang berada pada rentang **2007 - 2040** Masehi sehingga konstanta konversi yang dipakai menurut tabel diatas adalah **67**.
 
-```
+```javascript
 Tahun Jawa = 1954
 Tahun Masehi = 1954 + 67 = 2021
 
@@ -121,17 +121,17 @@ Tahun-tahun Jawa yang berlaku pada rentang tahun **2007 - 2040** Masehi akan mem
 
 Konversi dari tahun Kalender Jawa ke tahun Kalender Hijriyah.
 
-```
+```javascript
 Tahun Hijriyah = Tahun Jawa - 512
 ```
 
 dan untuk mencari tahun pada Kalender Jawa dari tahun di Kalender Hijriyah
 
-```
+```javascript
 Tahun Jawa = Tahun Hijriyah + 512
 ```
 
-## Referensi
+# Referensi
 
 1. Prabowo, A. _The Pakubuwono Code_. 2014, hal. 28.
 2. Prabowo, A. dan Pramono Sidi (2012). _Tarikh Jawa: Kalender Lunar Berbasis Matematika_. Jurnal Edumat PPPPTK, Yogyakarta, Vol. 3 No. 6, 2012, 395-410.
