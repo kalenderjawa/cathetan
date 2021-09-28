@@ -39,9 +39,9 @@ Angka awal `Konstanta_Konversi` yaitu 78. Sebagai contoh seperti berikut,
 
 ...dan seterusnya.
 
-## Tabel Konstanta Konversi
+## Tabel Konstanta Konversi Masehi
 
-Daftar konstanta konversi dengan tahun awal dan tahun akhir.
+Daftar konstanta konversi dengan tahun awal dan tahun akhir versi Masehi.
 
 | Konstanta Konversi | Tahun Awal (M) | Tahun Akhir (M) |
 | :----------------: | :--------: | :---------: |
