@@ -19,10 +19,10 @@ const koreksi_detik = 5 * 60 * 60 * 4 + 48 * 60 * 4 + 46 * 4; //23.2511 jam
 Koreksi dari Kalender Gregorian adalah `97` tahun selama `400` tahun dalam Kalender Gregorian adalah tahun kabisat dan sisanya 303 adalah tahun biasa.
 
 ```javascript
-const jumlah_tahun_non_kabisat = 365;
-const jumlah_tahun_kabisat = 366;
+const th_non_kabisat = 365;
+const th_kabisat = 366;
 
-1_Tahun_Gregorian = ((365×303)+(366×97))/400 = 146.097/400 = 365,2425 hari
+1_Tahun_Gregorian = ((th_non_kabisat×303)+(th_kabisat×97))/400 = 146.097/400 = 365,2425 hari
 ```
 
 ## Referensi
