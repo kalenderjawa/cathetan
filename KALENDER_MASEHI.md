@@ -25,4 +25,7 @@ const th_kabisat = 366;
 1_Tahun_Gregorian = ((th_non_kabisat×303)+(th_kabisat×97))/400 = 146.097/400 = 365,2425 hari
 ```
 
+## Referensi
+
+
 [^1]: [Kalender Jowo Di Gowo, Kalender Arab Di Garap, Kalender Barat Di Ruwat](https://www.caknun.com/2019/kalender-jowo-digowo-kalender-arab-digarap-kalender-barat-diruwat)
