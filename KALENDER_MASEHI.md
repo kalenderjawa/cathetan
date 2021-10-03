@@ -16,7 +16,7 @@ Jumlah total jam hilang tersebut akan menjadi 1 hari selang 4 tahun.
 const koreksi_detik = 5 * 60 * 60 * 4 + 48 * 60 * 4 + 46 * 4; //23.2511 jam
 ```
 
-Koreksi dari Kalender Gregorian adalah `97` tahun selama `400` tahun dalam Kalender Gregorian adalah tahun kabisat dan sisanya 303 adalah tahun biasa[^1].
+Pengkoreksian yang dilakukan pada Kalender Gregorian adalah selama `97` tahun dari `400` tersebut adalah tahun kabisat dan sisanya yaitu 303 adalah tahun biasa[^1].
 
 ```javascript
 const th_non_kabisat = 365;
