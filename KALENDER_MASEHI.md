@@ -25,7 +25,22 @@ const th_kabisat = 366;
 1_Tahun_Gregorian = ((th_non_kabisat×303)+(th_kabisat×97))/400 = 146.097/400 = 365,2425 hari
 ```
 
-## Referensi
+|  No   |    Bulan    | Jumlah Hari (Non-Kabisat) | Jumlah Hari (Kabisat) |
+| :---: | :---------: | :-----------------------: | :-------------------: |
+|   1   |   Januari   |            31             |          31           |
+|   2   |  Februari   |            28             |          29           |
+|   3   |    Maret    |            31             |          31           |
+|   4   |    April    |            30             |          30           |
+|   5   |     Mei     |            31             |          31           |
+|   6   |    Juni     |            30             |          30           |
+|   7   |    Juli     |            31             |          31           |
+|   8   |   Agustus   |            31             |          31           |
+|   9   |  September  |            30             |          30           |
+|  10   |   Oktober   |            31             |          31           |
+|  11   |  November   |            30             |          30           |
+|  12   |  Desember   |            31             |          31           |
+|       |   Jumlah    |            365            |          366          |
 
+## Referensi
 
 [^1]: [Kalender Jowo Di Gowo, Kalender Arab Di Garap, Kalender Barat Di Ruwat](https://www.caknun.com/2019/kalender-jowo-digowo-kalender-arab-digarap-kalender-barat-diruwat)
