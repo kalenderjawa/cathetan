@@ -28,7 +28,7 @@ const th_kabisat = 366;
 Pengkoreksian yang lain adalah untuk tahun yang merupakan kelipatan 100 seperti 1400, 2000, 2100 dsb hanya dimasukkan sebagai tahun kabisat jika tahun tersebut juga habis dibagi dengan 400 [^2].
 
 ```javascript
-function cekTahunKabisat(tahun) {
+function cekTahunKabisatMasehi(tahun) {
   if (tahun % 100 === 0) {
     if (tahun % 400 === 0 && tahun % 4 === 0) {
       return true;
