@@ -1,6 +1,8 @@
-# Kalender Masehi (Gregorian)
+# Kalender Masehi
 
-Kalender Gregorian yang banyak dipakai saat ini, merupakan keberlanjutan dari Kalender Julian dimana setiap 4 tahun sekali terdapat 1 tahun kabisat (_Leap Year_) dimana pada tahun tersebut berjumlah 366 hari, artinya tahun kabisat adalah tahun yang habis dibagi 4.
+## Kalender Masehi (Gregorian)
+
+Kalender Masehi yang banyak dipakai saat ini atau lebih tepatnya adalah Kalender Gregorian merupakan keberlanjutan dari Kalender Julian dimana setiap 4 tahun sekali terdapat 1 tahun kabisat (_Leap Year_) dimana pada tahun tersebut berjumlah 366 hari, artinya tahun kabisat adalah tahun yang habis dibagi 4.
 
 > Pada tahun kabisat terdapat tambahan 1 hari yaitu tanggal 29 pada bulan Februari.
 
@@ -59,6 +61,16 @@ function cekTahunKabisatMasehi(tahun) {
 | 11  | November  |            30             |          30           |
 | 12  | Desember  |            31             |          31           |
 |     |  Jumlah   |            365            |          366          |
+
+### Siklus Tahun Masehi
+
+Siklus tahun Masehi adalah 4 tahun sekali atau sebanyak 1461 Hari.
+
+```javascript
+siklus_tahun_masehi = 3 * 365 + 366; //1461 hari
+```
+
+3 tahun biasa dan 1 tahun kabisat.
 
 ## Referensi
 
