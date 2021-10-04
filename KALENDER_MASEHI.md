@@ -16,7 +16,7 @@ Jumlah total jam hilang tersebut akan menjadi 1 hari selang 4 tahun.
 const koreksi_detik = 5 * 60 * 60 * 4 + 48 * 60 * 4 + 46 * 4; //23.2511 jam
 ```
 
-Pengkoreksian yang dilakukan pada Kalender Gregorian adalah selama `97` tahun dari `400` tersebut adalah tahun kabisat dan sisanya yaitu 303 adalah tahun biasa[^1]. 
+Pengkoreksian yang dilakukan pada Kalender Gregorian adalah selama `97` tahun dari `400` tersebut adalah tahun kabisat dan sisanya yaitu 303 adalah tahun biasa [^1].
 
 ```javascript
 const th_non_kabisat = 365;
@@ -25,8 +25,22 @@ const th_kabisat = 366;
 1_Tahun_Gregorian = ((th_non_kabisat×303)+(th_kabisat×97))/400 = 146.097/400 = 365,2425 hari
 ```
 
-Pengkoreksian yang lain adalah untuk tahun yang merupakan kelipatan 100 seperti 1400, 2000, 2100 dsb hanya dimasukkan sebagai tahun kabisat jika tahun tersebut juga habis dibagi dengan 400[^2].
+Pengkoreksian yang lain adalah untuk tahun yang merupakan kelipatan 100 seperti 1400, 2000, 2100 dsb hanya dimasukkan sebagai tahun kabisat jika tahun tersebut juga habis dibagi dengan 400 [^2].
 
+```javascript
+function cekTahunKabisat(tahun) {
+  if (tahun % 100 === 0) {
+    if (tahun % 400 === 0 && tahun % 4 === 0) {
+      return true;
+    }
+  } else {
+    if (tahun % 4 === 0) {
+      return true;
+    }
+  }
+  return false;
+}
+```
 
 ## Tabel Bulan & Hari Masehi
 
@@ -45,8 +59,6 @@ Pengkoreksian yang lain adalah untuk tahun yang merupakan kelipatan 100 seperti 
 | 11  | November  |            30             |          30           |
 | 12  | Desember  |            31             |          31           |
 |     |  Jumlah   |            365            |          366          |
-
-
 
 ## Referensi
 
