@@ -70,9 +70,7 @@ Siklus tahun Masehi adalah 4 tahun sekali atau sebanyak 1461 Hari.
 siklus_tahun_masehi = 3 * 365 + 366; //1461 hari
 ```
 
-3 tahun biasa dan 1 tahun kabisat.
-
-## Referensi
+3 tahun biasa dengan tiap tahun berjumlah 365 hari dan 1 tahun kabisat yang berjumlah 366 hari.
 
 [^1]: [Kalender Jowo Di Gowo, Kalender Arab Di Garap, Kalender Barat Di Ruwat](https://www.caknun.com/2019/kalender-jowo-digowo-kalender-arab-digarap-kalender-barat-diruwat)
 [^2]: [Kalender Gregorius](https://id.wikipedia.org/wiki/Kalender_Gregorius)
